@@ -1,0 +1,28 @@
+body {
+  font-family: Avenir;
+}
+
+h1 {
+  color: #283c63;
+  font-size: 48px;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+  color: #f85f73;
+  margin: 0;
+  padding: 0;
+}
+
+.vanilla-weather-app {
+  max-width: 600px;
+  margin: 30px auto;
+  padding: 20px;
+  border: 2px solid #283c63;
+  border-radius: 10px;
+}
