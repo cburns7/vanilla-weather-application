@@ -14,10 +14,13 @@ ul {
 
 li {
   list-style: none;
-  text-transform: capitalize;
   color: #f85f73;
   margin: 0;
   padding: 0;
+}
+
+li:first-letter {
+  text-transform: capitalize;
 }
 
 .app-wrapper {
