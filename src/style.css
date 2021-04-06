@@ -65,3 +65,23 @@ li:first-letter {
 .weather-temperature .active:hover {
   text-decoration: none;
 }
+
+.weather-forecast {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.weather-forecast-date {
+  font-size: 18px;
+  font-weight: bold;
+  color: #1b1717;
+}
+
+.weather-forecast-temperatures {
+  color: #1b1717;
+  font-size: 14px;
+}
+
+.weather-forecast-temperatures-min {
+  opacity: 0.8;
+}
