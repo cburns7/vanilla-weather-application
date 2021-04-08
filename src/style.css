@@ -52,7 +52,7 @@ li:first-letter {
   top: -20px;
 }
 
-.forecast {
+.weather {
   margin-bottom: 10px;
 }
 
@@ -83,5 +83,5 @@ li:first-letter {
 }
 
 .weather-forecast-temperatures-min {
-  opacity: 0.8;
+  opacity: 0.6;
 }
